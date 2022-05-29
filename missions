@@ -1,0 +1,4 @@
+-- make code to perform converting from cms-app-config into classes
+-- inject instance of the classes into the template view to use 
+-- use shortcuts to represent the objects and echo it in the template
+-- create dashboard that affect on the json and the content data somehow

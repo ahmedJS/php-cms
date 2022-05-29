@@ -1,0 +1,10 @@
+{
+    "classname" :{
+        "property" : "value",
+        "property2" : "value2"
+    },
+    "classname2" :{
+        "property" : "value",
+        "property2" : "value2"
+    }
+}
