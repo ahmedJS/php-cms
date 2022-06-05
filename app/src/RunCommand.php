@@ -10,6 +10,7 @@ class RunCommand extends Command{
 
     function perform()
     {
+        $file = file_get_contents("../../cms-app-config.json");
         
     }
 }

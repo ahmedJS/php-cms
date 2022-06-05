@@ -1,6 +1,6 @@
 <?php
 namespace CMSApp\src\Exceptions;
 
-class InvalidCommandExceptino extends Exception{
+class InvalidCommandExceptino extends \Exception{
 
 }

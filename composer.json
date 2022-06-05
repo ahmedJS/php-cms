@@ -1,7 +1,12 @@
 {
+    "require": {
+        "phpunit/phpunit" : "9.*"
+    },
     "autoload": {
         "psr-4": {
             "CMSApp\\" : "app/"
         }
     }
+    
+
 }
