@@ -4,4 +4,12 @@
 -- create dashboard that affect on the json and the content data somehow
 
 
-modif in only this
+new thoughts 2022/6/6
+
+-modif generate function to make "rewrite to the php classe"
+based on information of command comming from the commandline
+like --hard flag -
+
+-find script that write php classes in a pretty-way
+
+-find library that recognize some text in a whole script as well as analize it
